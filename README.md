@@ -42,10 +42,10 @@ In the past, all vacation time had to be approved by an immediate manager and th
 ![image](https://github.com/Gioushy/VTS/assets/105521854/3445e3a7-d970-446c-8420-e5b5448716d7)
 
 ## Use Cases:
-•	Manage time [Create Request] <br/>
-•	Withdraw Request <br/>
-•	Cancel Request <br/>
-•	Edit Pending Request <br/>
+•	[Manage Time](https://github.com/Gioushy/VTS/blob/main/ManageTime/ManageTimeUseCase.md) <br/>
+•	[Withdraw Request](https://github.com/Gioushy/VTS/blob/main/WithdrawRequest/WithdrawRequestUseCase.md) <br/>
+•	[Cancel Request](https://github.com/Gioushy/VTS/blob/main/CancelRequest/CancelRequestUseCase.md) <br/>
+•	[Edit Pending Request](https://github.com/Gioushy/VTS/blob/main/EditRequest/EditRequestUseCase.md) <br/>
 
 
 
